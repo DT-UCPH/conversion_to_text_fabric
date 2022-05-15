@@ -1,5 +1,5 @@
 # conversion_to_text_fabric
-Contains notebook in which a text is converted to a text fabric dataset.
+Contains notebook in which a simple text is converted to a text fabric dataset.
 
 You can run the app with:
 
