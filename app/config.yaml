@@ -1,7 +1,7 @@
 apiVersion: 3
 dataDisplay:
   textFormats:
-    layout-orig-full: 
+    text-orig-full: 
       method: layoutRich
       style:  normal
 interfaceDefaults: {}
