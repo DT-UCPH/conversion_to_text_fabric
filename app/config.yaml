@@ -1,0 +1,20 @@
+apiVersion: 3
+dataDisplay:
+  textFormats:
+    layout-orig-full: 
+      method: layoutRich
+      style:  normal
+interfaceDefaults: {}
+provenanceSpec:
+  corpus: texts from the real bible
+  version: '0.1'
+typeDisplay:
+  book:
+    featuresBare: author
+  line:
+    features: language
+    label: '{number}'
+    template: '{number}'
+    verselike: true
+  word:
+    features: lexeme
